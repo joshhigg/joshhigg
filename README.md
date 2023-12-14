@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh!
 - 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning Back-end development and Python.
+- 🌱 I’m currently learning Back-end development and MVC structure
 - 📫 Contact me at josh.higginson201@gmail.com
 
 <!---
